@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Interfaz1</string>
+    <string name="userNameHint">Name</string>
+    <string name="passwordHint">Password</string>
+    <string name="btnLoginText">SIGN IN</string>
+    <string name="textSignUpText">Dont have an account. Sign up.</string>
+</resources>
